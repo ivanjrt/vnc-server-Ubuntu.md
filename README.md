@@ -1,6 +1,7 @@
 # Content: 
 # This will talk about the steps to create VNC Server within Ubuntu 23.10 (This might work on earlier versions but I didn't get to test that)
-This Involves security deal, where you are leaving the computer unlocked, You have been warned and its up to you to follow the steps below.
+- Because this a VNC server you will be able to connect from Linux, Mac or Even Windows, as long you have a VNC Client
+- This Involves security deal, where you are leaving the computer unlocked, You have been warned and its up to you to follow the steps below.
 
 
 * Installing The Display Manager &  Restarting
