@@ -55,3 +55,4 @@ systemctl enable x11vnc.service
 * Leave the computer unlocked, then remote In otherwise even though you might bypass the VNC's server password and you are able to type the Ubuntu's password machine, <br/>
 it will not let you IN (_at least from my expierence_), therefore:  <br/>
 ![image](https://github.com/ivanjrt/vnc-server-Ubuntu.md/assets/44326428/5c64145a-b2da-4abe-b32e-1bb5be1f70f7)  <br/>
+Enjoy!
